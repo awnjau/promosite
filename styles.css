@@ -18,14 +18,14 @@ body {
 .div-2{
   background-color: green;
   text-align: left;
-  width:50px;
-  height:50px;
+  width:100px;
+  height:100px;
 }
 .div-3{
   background-color: blue;
   text-align: left;
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
 }
 img{
   text-align:right;
