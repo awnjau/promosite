@@ -1,7 +1,7 @@
 body {
 
   background-color:GoldenRod;
-}
+
     h1{
       text-align:center;
     }
@@ -29,4 +29,5 @@ img{
   text-align:right;
   width:128px;
   height:150px;
+}
 }
