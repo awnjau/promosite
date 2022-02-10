@@ -12,24 +12,29 @@ body {
 .div-1{
     background-color: white;
     text-align:center;
+    width: 50%;
 
 }
 .div-2{
   background-color: green;
   text-align: left;
+  width: 50%;
 }
 .div-3{
   background-color: blue;
   text-align: left;
+  width: 50%;
 
 }
 .div-4{
   background-color: purple;
   text-align: left;
+  width: 50%;
 }
 .div-5{
   background-color: orange;
   text-align: left;
+  width: 50%;
 }
 img{
   text-align:right;
