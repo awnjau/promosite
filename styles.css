@@ -1,4 +1,10 @@
 body {
 
-  background-color:green;
+  background-color:GoldenRod;
 }
+    h1{
+      text-align:center;
+    }
+    p{
+      text-align:left;
+    }
