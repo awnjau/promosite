@@ -17,23 +17,23 @@ body {
 }
 .div-2{
   background-color: green;
-  text-align: left;
+  text-align: center;
   width: 50%;
 }
 .div-3{
   background-color: blue;
-  text-align: left;
+  text-align: center;
   width: 50%;
 
 }
 .div-4{
   background-color: purple;
-  text-align: left;
+  text-align: center;
   width: 50%;
 }
 .div-5{
   background-color: orange;
-  text-align: left;
+  text-align: centert;
   width: 50%;
 }
 img{
